@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is João Pedro Marques de Araújo Aragão Rodrigues 
+
+-🎓 I am a Student of the Federal Institute of science and technology of Paraíba 
+
+-💻 Currently studying Python,MySql, Javascript and seeking more knowledge in the tech area
+
+-🎩 I am now doing three projects one with SOCKETS API , the other is kinda of a wordle clone using Javascript and the last is database of bakery 
+
+-👔 I am looking for a job now preferably a internship 
